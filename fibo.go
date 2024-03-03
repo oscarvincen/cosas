@@ -9,6 +9,7 @@ func fibonacci(n int) int {
 	return fibonacci(n-1) + fibonacci(n-2)
 }
 
+// This is the main function!
 func main() {
 	fmt.Println("Fibonacci Sequence")
 	for i := 0; i < 10; i++ {
