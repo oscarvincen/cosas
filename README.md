@@ -8,3 +8,10 @@ Actualiza repositorio: 2024-3-3.
 
 Veremos qué pasa en el PR.
 Gracias por el aporte.
+
+Una lista de comida:
+
+- Carne
+- Leche
+- Fruta
+- Uvas
