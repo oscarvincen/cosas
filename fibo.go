@@ -1,5 +1,6 @@
 import "fmt"
 
+// Function to calculate the nth Fibonacci number recuersively
 func fibonacci(n int) int {
 	if n <= 1 {
 		return n
