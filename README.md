@@ -6,6 +6,9 @@ Una buena forma de aprender Git es a través del [libro oficial](www.git-scm.com
 
 Actualiza repositorio: 2024-3-3.
 
+> [!NOTE]
+> Wow this is a note.
+
 Veremos qué pasa en el PR.
 Gracias por el aporte.
 
