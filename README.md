@@ -24,3 +24,7 @@ Otro tipo de lista, con un poco $\LaTeX$ para variar.
 - [x] Time
 - [ ] Space
 - [ ] Earth
+
+|Name|Profession|
+|---|---|
+|Oswald|MLOps|
