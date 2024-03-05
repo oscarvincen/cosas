@@ -19,3 +19,5 @@ INSERT INTO employees (employee_id, first_name, last_name, department, salary) V
 (8, 'Sarah', 'Davis', 'Marketing', 53000.00),
 (9, 'Matthew', 'Wilson', 'IT', 52000.00),
 (10, 'Olivia', 'Taylor', 'HR', 56000.00);
+
+-- I forgot to add this comment in the file
