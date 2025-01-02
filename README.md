@@ -12,18 +12,26 @@ Actualiza repositorio: 2024-3-3.
 Veremos qué pasa en el PR.
 Gracias por el aporte.
 
-Una lista de comida:
+Una lista desordenada de comida:
 
 - Carne
 - Leche
 - Fruta
 - Uvas
 
+Y una lista de pasos:
+
+1. Comprar alimentos.
+2. Cocinarlos.
+3. Ingerirlos (yumm!)
+
 Otro tipo de lista, con un poco $\LaTeX$ para variar.
 
 - [x] Time
 - [ ] Space
 - [ ] Earth
+
+Una tabla de juguete:
 
 |Name|Profession|
 |---|---|
