@@ -1,5 +1,3 @@
-CONTRIBUTING
-============
 # Contributing to Project Name
 
 We are excited that you are interested in contributing to our project! Below are guidelines to help you get started:
