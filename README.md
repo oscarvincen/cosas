@@ -37,6 +37,8 @@ Una tabla de juguete:
 |---|---|
 |Oswald|MLOps|
 
+![Antonio Gasalla](https://upload.wikimedia.org/wikipedia/commons/8/82/Antonio_Gasalla_2016_%28cropped%29.jpg)
+
 <footer>
   Go to www.google.com and search for it.
 </footer>
