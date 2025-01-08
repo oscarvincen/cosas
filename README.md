@@ -36,3 +36,8 @@ Una tabla de juguete:
 |Name|Profession|
 |---|---|
 |Oswald|MLOps|
+
+<footer>
+  Go to www.google.com and search for it.
+</footer>
+
